@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rewire/static/css/main.5f16e1b4.chunk.css",
+    "main.js": "/Rewire/static/js/main.08c8237b.chunk.js",
+    "main.js.map": "/Rewire/static/js/main.08c8237b.chunk.js.map",
+    "runtime-main.js": "/Rewire/static/js/runtime-main.1297e179.js",
+    "runtime-main.js.map": "/Rewire/static/js/runtime-main.1297e179.js.map",
+    "static/js/2.8fb43b19.chunk.js": "/Rewire/static/js/2.8fb43b19.chunk.js",
+    "static/js/2.8fb43b19.chunk.js.map": "/Rewire/static/js/2.8fb43b19.chunk.js.map",
+    "index.html": "/Rewire/index.html",
+    "precache-manifest.f2fa306f2e2c1b07505c840266db446a.js": "/Rewire/precache-manifest.f2fa306f2e2c1b07505c840266db446a.js",
+    "service-worker.js": "/Rewire/service-worker.js",
+    "static/css/main.5f16e1b4.chunk.css.map": "/Rewire/static/css/main.5f16e1b4.chunk.css.map",
+    "static/js/2.8fb43b19.chunk.js.LICENSE.txt": "/Rewire/static/js/2.8fb43b19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1297e179.js",
+    "static/js/2.8fb43b19.chunk.js",
+    "static/css/main.5f16e1b4.chunk.css",
+    "static/js/main.08c8237b.chunk.js"
+  ]
+}
